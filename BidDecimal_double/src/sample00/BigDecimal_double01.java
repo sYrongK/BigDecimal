@@ -2,7 +2,7 @@ package sample00;
 
 import java.math.BigDecimal;
 
-public class Bigdecimal_double01 {
+public class BigDecimal_double01 {
 
 	public static void main(String[] args) {
 		

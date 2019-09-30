@@ -3,7 +3,7 @@ package sample00;
  double 타입은 내부적으로 수를 저장할 때 이진수의 근사치를 저장
  -> 저장했던 수를 다시 십진수로 표현하면서 기대값과 실제값에 차이가 생기게된다.
  */
-public class Bigdecimal_double00 {
+public class BigDecimal_double00 {
 	
 	public static void main(String[] args) {
 		
